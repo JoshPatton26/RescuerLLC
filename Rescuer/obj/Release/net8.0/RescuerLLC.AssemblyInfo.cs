@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("RescuerLLC")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a97db3bf726a3ecf504ea2b4ebfed422bb3696f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d06e4107f4769216c66492d6a5ead550f4ce743")]
 [assembly: System.Reflection.AssemblyProductAttribute("RescuerLLC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RescuerLLC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
